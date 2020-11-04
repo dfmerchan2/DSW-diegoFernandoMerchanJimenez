@@ -16,3 +16,14 @@ body {
   text-align: center;
   margin-top: 10px;
 }
+
+
+
+.codigo {
+    overflow: auto;
+    word-wrap: normal;
+    margin: 0;
+    padding: .85em 1em;
+    margin-bottom: 1.275em;
+    background: #bdbaba8f;
+}
